@@ -6,6 +6,7 @@ public class Main {
      for(int i=0; i<6; i++){
          System.out.println("Testing");
          Thread.sleep(2000);
+         System.out.println("Testing pipeline");
      }
 
     }
